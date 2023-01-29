@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+  margin: 0 auto;
+}
+.fonts{
+  font-family: 'Hind Siliguri', sans-serif;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+li.nav-item {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-right: 10px;
+  padding-right: 5px;
+  padding-left: 5px;
+
+}
+
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+  box-shadow: 0px -4px 4px 8px #ddd;
+  background: #fff !important;
+}
+.active {
+  background: #FD9C3C;
+  color: #ffffff !important;
+  border-radius: 5px;
+  padding-left: 8;
+  padding-right: 8;
+}
+li.nav-item:hover {
+  
+  background: #FD9C3C;
+  color: #ffffff ;
+  transition: all .3s ease-in-out;
+}
+li.nav-item a:hover {
+    color: #ffffff ;
+    transition: all .5s ease-in-out;
+}
+button.login {
+  width: 93px;
+  height: 40px;
+  padding: 4px;
+  background: #000;
+  color: #fff;
+  font-weight: 500;
+  font-family: 'Hind Siliguri';
+  font-size: 18px;
+}
+section.herosection {
+  margin: 70px 0px;
+}
+section.herosection {
+  margin-top: 186px;
+  /* height: 700px; */
+}
+.title h1 {
+  font-size: 61px;
+  font-weight: 700;
+  font-family: 'Hind Siliguri';
+  line-height: 70px;
+}
+.f-18{
+  font-size: 18px;
+}
+button.enrolBtn {
+  height: 51px;
+  width: 171px;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Hind Siliguri';
+  background: #FD9C3C;
+  color: #fff;
+  outline: 0;
+  border-radius: 5px;
+  border: none;
+}
+section.service-section h2 {
+  font-size: 34px;
+  font-weight: 800;
+  font-family: 'Hind Siliguri';
+}
+
+section.service-section p {
+  font-size: 20px;
+  font-family: 'Hind Siliguri';
+}section.service-section {
+  background: #F6F6F6;
+}
+.shadow.bg-body.rounded {
+  margin: 28px 40px;
+  padding-bottom: 34px;
+}
+.card_title h1 {font-family: 'Hind Siliguri';}
+
+.card_title h3 {
+    font-family: 'Hind Siliguri';
+    font-weight: 800;
+}
+
+.card_title p {
+    padding: 13px;
+    FONT-WEIGHT: 400;
+    font-family: 'Hind Siliguri';
+}
+section.service-section {
+  background: #F6F6F6;
+  padding-bottom: 51px;
+}
+section.basic h2 {
+  font-size: 34px;
+  font-weight: 800;
+  font-family: 'Hind Siliguri';
+}
+
+section.basic p {
+  font-size: 20px;
+  font-family: 'Hind Siliguri';
+}section.service-section {
+  background: #F6F6F6;
+}
+.basic.text-center h3 {
+  font-family: 'Hind Siliguri';
+  font-weight: 800;
+  font-size: 29px;
+}
+button.addtocart {
+  height: 45px;
+  background: #4A42AC;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}.basic.text-center img {
+  border-radius: 11px;
+}
+button.addtocart:hover{
+  background-color: #FD9C3C;
+  transition: all .5s ease;
+}
+section.advance.mb-5 {
+    background: #F6F6F6;
+}section.advance h2 {
+  font-size: 34px;
+  font-weight: 800;
+  font-family: 'Hind Siliguri';
+}
+
+section.advance p {
+  font-size: 20px;
+  font-family: 'Hind Siliguri';
+}h1.mt-3.atitle {
+  font-size: 53px;
+  font-family: 'Hind Siliguri';
+  font-weight: bold;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+  box-shadow: 0px -4px 4px 8px #ddd;
+  background: #fff !important;
+  z-index: 1;
+}
+section.othersection {
+  background: #4A42AC;
+  /* height: 120px; */
+  color: #fff;
+}
+h1.title {
+  font-family: 'Hind Siliguri';
+  font-size: 32px;
+  line-height: 1.4em;
+  font-weight: 800;
+}
+img.img-fluid.contactimage {
+  width: 100%;
+}
+img.img-fluid.contactimage {
+  width: 47%;
+  PADDING: 13PX;
+}
+section.footer {
+  font-family: 'Hind Siliguri';
+}
+
+section.footer h3 {
+  font-weight: 800;
+  font-size: 20px;
+}
+section.footer p {
+  line-height: 12px;
+}.borders {
+  border: 2px solid #FFA64E !important;
+  width: 157px;
+  margin: 15px auto;
+  color: #FFA64E;
+}
+.galleryimages img {
+  height: 311px;
+  width: 100%;
+  border: 5px solid;
+  border-radius: 10px;
+}
+
